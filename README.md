@@ -1,6 +1,6 @@
 ### Olá, Tudo bem ?
 
-Meu nome é Priscilla Nascimento Santos,  genuinamente Manauara 😁. Sou Data Analyst na Bemol Digital. 💙
+Meu nome é Priscilla Nascimento Santos,  genuinamente Manauara 😁. Sou AI Analyst na Bemol Digital. 💙
 
 Apaixonada por Data Science 📊
    
