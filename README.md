@@ -45,7 +45,6 @@ Apaixonada por Data Science 📊
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prisantos&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-![Snake animation](https://https://github.com/prisantos/prisantos/blob/output/github-contribution-grid-snake.svg)
  
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=prisantos.prisantos)
