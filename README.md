@@ -39,9 +39,14 @@ Apaixonada por Data Science 📊
 <a target="_blank" href="https://medium.com/@priscilla.batista18"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
 </p> 
 
+<div>
+  <a href="https://https://github.com/prisantos">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prisantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prisantos&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=prisantos&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prisantos&hide=TeX&layout=compact)
+![Snake animation](https://https://github.com/prisantos/prisantos/blob/output/github-contribution-grid-snake.svg)
+ 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=prisantos.prisantos)
 
