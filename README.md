@@ -48,5 +48,8 @@ Apaixonada por Data Science 📊
  
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=prisantos.prisantos)
+   
+![Snake animation](https://github.com/prisantos/prisantos/blob/output/github-contribution-grid-snake.svg)
+ 
 
 <br />
