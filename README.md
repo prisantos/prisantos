@@ -17,6 +17,12 @@ Apaixonada por Data Science 📊
 - 🎓Estudando Machine Learning e Inteligência Artificial 
 
 
+
+<br>
+
+</br>
+<br>
+
 **Tecnologias**  
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -26,7 +32,7 @@ Apaixonada por Data Science 📊
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-
+</br>
 
 **Posts Recentes no Medium!**
 
@@ -38,6 +44,9 @@ Apaixonada por Data Science 📊
 <a target="_blank" href="mailto:priscilla.batista18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <a target="_blank" href="https://medium.com/@priscilla.batista18"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
 </p> 
+<br>
+
+</br>
 
 <div>
   <a href="https://https://github.com/prisantos">
