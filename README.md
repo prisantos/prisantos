@@ -62,10 +62,11 @@ Apaixonada por Data Science 📊
    
    
    
-## Projetos
+## Projetos(EM ATUALIZAÇÃO)
 
 ### 
 **Airbnb:** [Analisando os dados do Airbnb](https://github.com/prisantos/portifolio_datascience/blob/master/Analisando_os_Dados_do_Airbnb.ipynb)
+   
 Descrição: 
  
 
