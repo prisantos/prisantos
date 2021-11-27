@@ -13,7 +13,7 @@ Apaixonada por Data Science 📊
 - 💻 Atualmente estou trabalhando com  Natural Language Processing
 - 📝 Meu Blog: [Conecta Dados](https://medium.com/conectadados)
 - 💬  Fale comigo sobre qualquer coisa 😆
-- 📝[Resume](https://prisantos.github.io/priscillasantos.github.io/)
+- 📝[Resume](https://prisantos.github.io/portfolio/)
 - 🎓Estudando Machine Learning e Inteligência Artificial 
 
 
@@ -32,6 +32,7 @@ Apaixonada por Data Science 📊
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
+
 </br>
 
 **Posts Recentes no Medium!**
@@ -42,6 +43,7 @@ Apaixonada por Data Science 📊
 <a target="_blank" href="https://prisantos.github.io/portfolio/"><img src="https://img.shields.io/badge/-Portfolio-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"></img></a>	
 <a target="_blank" href="https://www.linkedin.com/in/priscilla-nascimento-santos-418aaa48/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:priscilla.batista18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" href="https://www.kaggle.com/priscillanascimento"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></img></a>
 <a target="_blank" href="https://medium.com/@priscilla.batista18"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
 </p> 
 <br>
