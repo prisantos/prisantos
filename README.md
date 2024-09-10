@@ -14,7 +14,7 @@ Apaixonada por Gen AI e Data Science 📊
 - 📝 Meu Blog: [Conecta Dados](https://medium.com/conectadados)
 - 💬  Fale comigo sobre qualquer coisa 😆
 - 📝[Resume](https://prisantos.github.io/portfolio/)
-- 🎓Estudando Machine Learning e Inteligência Artificial 
+- 🎓Estudando Gen AI, Machine Learning e Inteligência Artificial 
 
 
 
