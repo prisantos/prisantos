@@ -1,15 +1,15 @@
 ### Olá, Tudo bem ?
 
-Meu nome é Priscilla Nascimento Santos,  genuinamente Manauara 😁. Sou AI Analyst na Bemol Digital. 💙
+Meu nome é Priscilla Nascimento Santos,  genuinamente Manauara 😁. 
 
-Apaixonada por Data Science 📊
+Apaixonada por Gen AI e Data Science 📊
    
    <img align="right" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/source.gif" width="500" height="320" />
   
   
 **Sobre Mim:**
 
-- 💡 Tenho interesse em: Data Science, Machine Learning, IA  e Tecnologias Educacionais 
+- 💡 Tenho interesse em: Gen AI, Data Science, Machine Learning, IA  e Tecnologias Educacionais 
 - 💻 Atualmente estou trabalhando com  Natural Language Processing
 - 📝 Meu Blog: [Conecta Dados](https://medium.com/conectadados)
 - 💬  Fale comigo sobre qualquer coisa 😆
